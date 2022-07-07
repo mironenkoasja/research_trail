@@ -1,5 +1,5 @@
 # research_trail
-Python code constructs Research Trails using publication from the Web of Science
+Python code constructs Research Trails using metadata of publication from the Web of Science
 
 Ho to use:
 
