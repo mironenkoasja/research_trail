@@ -1,0 +1,16 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "research_trail"
+version = "0.0.1"
+authors = [
+  { name="Asia Mironenko", email="mironenkoasja@gmail.com" },
+]
+description = "Analysis of references in academic publications and creation of research trails"
+readme = "README.md"
+requires-python = ">=3.9"
+
+[project.urls]
+"Homepage" = "https://github.com/mironenkoasja/research_trail"
