@@ -4,6 +4,7 @@ Python code constructs Research Trails using metadata of publication from the We
 This package has only one main function:
 
 """ research_trail_generate(path_to_wos, treshold, title_of_pic) 
+      
       Calculates research trail for publications from Web of Science 
 
 Args:
