@@ -1,15 +1,8 @@
 # Research trail
 Python code constructs Research Trails using metadata of publication from the Web of Science
 
-Ho to use:
+This package has onlz one main function:
 
-1 Put both files in one folder with wos data file
-
-2 Open py file in IDE
-
-3 Determine the value of the variables: path_to_wos, treshold, title_of_pic
-
-4 Run python file
 
 More about research trails :
 
