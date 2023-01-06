@@ -11,7 +11,7 @@ import copy
 from pathlib import Path
 
 
-PROJECT_DIR = Path(__file__).parent
+PROJECT_DIR = Path('research_trail_plot.py').resolve().parent
 
 pd.set_option('display.max_colwidth', 100)
 
